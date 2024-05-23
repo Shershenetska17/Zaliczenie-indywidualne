@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Date", "Date\Date.csproj", "{1AB68635-61E8-47C3-B870-1C96547E0FE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObslugaPlyt", "ObslugaPlyt\ObslugaPlyt.csproj", "{F89FCF54-67F0-4144-BC3D-F713F66D1129}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AB68635-61E8-47C3-B870-1C96547E0FE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AB68635-61E8-47C3-B870-1C96547E0FE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AB68635-61E8-47C3-B870-1C96547E0FE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AB68635-61E8-47C3-B870-1C96547E0FE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F89FCF54-67F0-4144-BC3D-F713F66D1129}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F89FCF54-67F0-4144-BC3D-F713F66D1129}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F89FCF54-67F0-4144-BC3D-F713F66D1129}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F89FCF54-67F0-4144-BC3D-F713F66D1129}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D84C94D9-25A4-498B-B79B-ED8CBF076099}
+	EndGlobalSection
+EndGlobal
